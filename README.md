@@ -35,6 +35,8 @@
 
 ## Screenshots
 
-<img src="https://github.com/Spidy20/Screenshot (20).png">
-<img src="https://github.com/Spidy20/LandMark_Detection/blob/master/s1.PNG">
-<img src="https://github.com/Spidy20/LandMark_Detection/blob/master/s2.PNG">
+<img src="https://github.com/bobbycodder/Landmark_Detection_Webapp/blob/main/Screenshot%20(20).png">
+<img src="https://github.com/bobbycodder/Landmark_Detection_Webapp/blob/main/Screenshot%20(21).png">
+<img src="https://github.com/bobbycodder/Landmark_Detection_Webapp/blob/main/Screenshot%20(22).png">
+<img src="https://github.com/bobbycodder/Landmark_Detection_Webapp/blob/main/Screenshot%20(23).png">
+<img src="https://github.com/bobbycodder/Landmark_Detection_Webapp/blob/main/Screenshot%20(24).png">
